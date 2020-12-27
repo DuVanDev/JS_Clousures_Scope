@@ -1,0 +1,19 @@
+{
+  "name": "jsclousuresscope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuvanMorenoCardona/JS_Clousures_Scope.git"
+  },
+  "author": "MIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuvanMorenoCardona/JS_Clousures_Scope/issues"
+  },
+  "homepage": "https://github.com/DuvanMorenoCardona/JS_Clousures_Scope#readme"
+}
